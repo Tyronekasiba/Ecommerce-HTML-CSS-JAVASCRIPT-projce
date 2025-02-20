@@ -8,4 +8,6 @@ A modern and fully responsive Ecommerce website built using HTML, CSS, and JavaS
   # Interactive shopping cart
   # Smooth animations & transitions
   # Clean and structured code for easy customization
-
+  
+##Contact
+For any questions or inquiries, please contact me at tyronekasiba@gmail.com
